@@ -11,6 +11,8 @@ Structure:
 
 Final_Project.html : R mark down file with all codes
 
-run_analysis : Code book
+CodeBook : Code Book that contains all measurements
+
+run_analysis : R script
 
 tidy.txt : tidy data created in the last step
